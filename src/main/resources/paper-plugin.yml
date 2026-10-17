@@ -1,0 +1,6 @@
+name: ServerManagement
+version: '${version}'
+
+main: shiny.serverManagement.ServerManagement
+api-version: '26.3'
+load: POSTWORLD
